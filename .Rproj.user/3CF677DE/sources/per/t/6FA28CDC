@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599064975138.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6FA28CDC",
+    "lastKnownWriteTime" : 94369770090680,
+    "last_content_update" : 1599064975138,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C9268AA0",
+        "caption" : "interventions",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=interventions&cache_key=C9268AA0",
+        "displayedObservations" : 3273,
+        "environment" : "",
+        "expression" : "interventions",
+        "object" : "interventions",
+        "preview" : 0,
+        "totalObservations" : 3273,
+        "variables" : 16
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
